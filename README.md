@@ -112,4 +112,4 @@ void performVecAdd() {
 ![image](https://github.com/user-attachments/assets/30d30275-2aeb-473f-915a-e845ec58b170)
 
 ## RESULT:
-The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 0.005 seconds seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.002 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
